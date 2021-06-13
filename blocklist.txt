@@ -1,0 +1,27 @@
+; DLFord Block List
+; https://github.com/dlford/blocklist
+92.118.38.38 ; DOS 20191204
+45.148.10.89 ; SASL LOGINS 20200326
+95.179.245.248 ; buff overflow 20200701
+178.137.211.172 ; email hacked scam 20200718
+82.80.249.219 ; Netherlands, dos
+2.136.56.83 ; 50 NAXSI hits, maybe SQLi attempts
+114.239.54.122 ; script kiddie
+49.89.249.100 ; script kiddie
+141.98.80.58 ; script kiddie
+23.98.139.6 ; script kiddie
+62.8.85.87 ; email spam
+188.163.88.59 ; script kiddie
+171.5.234.162 ; script kiddie
+171.5.234.162 ; script kiddie
+178.66.1.23 ; script kiddie
+185.236.67.174 ; script kiddie
+213.151.5.206 ; script kiddie
+185.82.246.155 ; script kiddie
+42.159.86.139 ; email spam
+108.62.70.243 ; contact form spam
+104.197.141.11 ; script kiddie
+192.126.171.216 ; contact form spam
+193.57.40.33 ; script kiddie
+45.227.255.149 ; script kiddie
+45.129.136.11 ; script kiddie
