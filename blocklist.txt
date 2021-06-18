@@ -29,3 +29,4 @@
 212.70.149.88 ; port 25 DOS attempt
 212.70.149.56 ; port 25 DOS attempt
 87.246.7.245 ; port 25 DOS attempt
+188.34.155.58 ; fake Googlebot
