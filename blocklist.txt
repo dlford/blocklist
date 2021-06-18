@@ -25,3 +25,4 @@
 193.57.40.33 ; script kiddie
 45.227.255.149 ; script kiddie
 45.129.136.11 ; script kiddie
+87.246.7.228 ; port 25 DOS attempt
