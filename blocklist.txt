@@ -31,3 +31,4 @@
 87.246.7.245 ; port 25 DOS attempt
 188.34.155.58 ; fake Googlebot
 143.244.54.72 ; script kiddie
+77.247.110.62; mail server brute force
