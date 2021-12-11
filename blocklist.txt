@@ -34,3 +34,4 @@
 77.247.110.62; mail server brute force
 69.164.202.72; script kiddie
 185.190.24.25; script kiddie, SQL Injection attempt, 2021-11-15
+179.60.150.134; script kiddie, SQL Injection attempt, 2021-12-11
