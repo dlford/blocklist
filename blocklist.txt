@@ -36,3 +36,4 @@
 185.190.24.25; script kiddie, SQL Injection attempt, 2021-11-15
 179.60.150.134; script kiddie, SQL Injection attempt, 2021-12-11
 194.165.16.19; script kiddie, 2021-12-17
+45.227.254.4; script kiddie, 2021-12-20
