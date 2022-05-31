@@ -41,3 +41,5 @@
 141.98.9.23; script kiddie, 2022-01-04
 5.181.86.85; script kiddie, 2022-01-14
 51.140.68.179; script kiddie, 2022-01-17
+81.163.141.74; script kiddie, 2022-05-31
+176.121.200.38; script kiddie, 2022-05-31
