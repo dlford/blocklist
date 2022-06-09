@@ -10,3 +10,4 @@
 51.140.68.179; script kiddie, 2022-01-17
 81.163.141.74; script kiddie, 2022-05-31
 176.121.200.38; script kiddie, 2022-05-31
+49.233.24.12; script kiddie, wordpress, 2022-06-09
