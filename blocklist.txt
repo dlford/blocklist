@@ -13,3 +13,4 @@
 49.233.24.12; script kiddie, wordpress, 2022-06-09
 151.0.46.86; script kiddie, 2022-06-16
 81.163.144.207; script kiddie, 2022-06-16
+45.227.253.6; script kiddie, 2022-06-27
