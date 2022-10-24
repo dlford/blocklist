@@ -19,3 +19,4 @@
 152.89.196.13; script kiddie, 2022-08-20
 141.98.83.246; script kiddie, 2022-08-29
 87.246.7.75; mail brute force, 2022-10-02
+159.138.122.179; script kiddie, 2022-10-24
