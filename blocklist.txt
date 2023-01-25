@@ -21,3 +21,4 @@
 87.246.7.75; mail brute force, 2022-10-02
 159.138.122.179; script kiddie, 2022-10-24
 147.78.47.37; DOS attempt 2022-12-23
+80.94.95.204; mail brute force, 2023-01-24
