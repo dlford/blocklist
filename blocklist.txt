@@ -18,16 +18,17 @@
 78.128.113.62; brute force, 2022-07-26
 152.89.196.13; script kiddie, 2022-08-20
 141.98.83.246; script kiddie, 2022-08-29
-87.246.7.75; mail brute force, 2022-10-02
+87.246.7.75; mail login attempts, 2022-10-02
 159.138.122.179; script kiddie, 2022-10-24
 147.78.47.37; DOS attempt 2022-12-23
-80.94.95.204; mail brute force, 2023-01-24
-45.128.234.83; mail brute force, 2023-01-24
-176.111.173.25; mail brute force, 2023-01-25
-113.161.88.98; mail brute force, 2023-01-25
-183.136.225.42; mail brute force, 2023-01-25
-185.254.37.149; mail brute force, 2023-02-02
-185.246.220.8; mail brute force, 2023-02-02
-220.178.243.124; mail brute force, 2023-02-02
-41.215.221.15; mail brute force, 2023-02-03
-68.71.254.3; mail brute force, 2023-02-03
+80.94.95.204; mail login attempts, 2023-01-24
+45.128.234.83; mail login attempts, 2023-01-24
+176.111.173.25; mail login attempts, 2023-01-25
+113.161.88.98; mail login attempts, 2023-01-25
+183.136.225.42; mail login attempts, 2023-01-25
+185.254.37.149; mail login attempts, 2023-02-02
+185.246.220.8; mail login attempts, 2023-02-02
+220.178.243.124; mail login attempts, 2023-02-02
+41.215.221.15; mail login attempts, 2023-02-03
+68.71.254.3; mail login attempts, 2023-02-03
+190.117.45.54; mail login attempts, 2023-02-03
