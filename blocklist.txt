@@ -30,3 +30,4 @@
 185.246.220.8; mail brute force, 2023-02-02
 220.178.243.124; mail brute force, 2023-02-02
 41.215.221.15; mail brute force, 2023-02-03
+68.71.254.3; mail brute force, 2023-02-03
