@@ -20,3 +20,4 @@
 80.94.95.242; mail login attempts, 2023-05-17
 47.153.93.187; mail login attempts, 2024-02-15
 167.94.146.60; vulnerability hunter
+193.32.162.80; mail login bruteforce, 2024-02-17
